@@ -1,0 +1,41 @@
+Well,ExptType,Experiment,Sample,TargetType,Positives,Negatives,AcceptedDroplets,%
+A01,Absolute Quantification,ABS,B73 24,Ch1Unknown,506,11405,11911,0.04248174
+B01,Absolute Quantification,ABS,B73 24,Ch1Unknown,1275,10007,11282,0.113011877
+C01,Absolute Quantification,ABS,B73 24,Ch1Unknown,655,14658,15313,0.042774113
+E03,Absolute Quantification,ABS,B73 72,Ch1Unknown,36,10221,10257,0.003509798
+F03,Absolute Quantification,ABS,B73 72,Ch1Unknown,48,10479,10527,0.004559704
+G03,Absolute Quantification,ABS,B73 72,Ch1Unknown,349,9648,9997,0.034910473
+A07,Absolute Quantification,ABS,B73 7d,Ch1Unknown,63,18882,18945,0.003325416
+B07,Absolute Quantification,ABS,B73 7d,Ch1Unknown,120,17815,17935,0.006690828
+C07,Absolute Quantification,ABS,B73 7d,Ch1Unknown,48,16384,16432,0.00292113
+D01,Absolute Quantification,ABS,GEMN 24,Ch1Unknown,1861,13234,15095,0.123285856
+E01,Absolute Quantification,ABS,GEMN 24,Ch1Unknown,1366,12716,14082,0.097003267
+F01,Absolute Quantification,ABS,GEMN 24,Ch1Unknown,1711,13022,14733,0.116133849
+A05,Absolute Quantification,ABS,GEMN 72,Ch1Unknown,236,16099,16335,0.014447505
+B05,Absolute Quantification,ABS,GEMN 72,Ch1Unknown,74,16259,16333,0.004530705
+H03,Absolute Quantification,ABS,GEMN 72,Ch1Unknown,106,10520,10626,0.009975532
+A09,Absolute Quantification,ABS,GEMN 7d,Ch1Unknown,64,17265,17329,0.003693231
+G07,Absolute Quantification,ABS,GEMN 7d,Ch1Unknown,83,18317,18400,0.00451087
+H07,Absolute Quantification,ABS,GEMN 7d,Ch1Unknown,358,19084,19442,0.018413743
+E09,Absolute Quantification,ABS,H20,Ch1Unknown,63,16713,16776,0.003755365
+F09,Absolute Quantification,ABS,H20,Ch1Unknown,140,16668,16808,0.008329367
+G09,Absolute Quantification,ABS,H20,Ch1Unknown,62,18174,18236,0.003399868
+H09,Absolute Quantification,ABS,H20,Ch1Unknown,44,15657,15701,0.002802369
+A03,Absolute Quantification,ABS,Mo17 24,Ch1Unknown,139,10803,10942,0.012703345
+G01,Absolute Quantification,ABS,Mo17 24,Ch1Unknown,1057,13375,14432,0.073240022
+H01,Absolute Quantification,ABS,Mo17 24,Ch1Unknown,544,13951,14495,0.037530183
+C05,Absolute Quantification,ABS,Mo17 72,Ch1Unknown,131,14657,14788,0.008858534
+D05,Absolute Quantification,ABS,Mo17 72,Ch1Unknown,459,15406,15865,0.02893161
+E05,Absolute Quantification,ABS,Mo17 72,Ch1Unknown,115,16251,16366,0.007026763
+D07,Absolute Quantification,ABS,Mo17 7d,Ch1Unknown,102,15838,15940,0.006398996
+E07,Absolute Quantification,ABS,Mo17 7d,Ch1Unknown,95,16277,16372,0.00580259
+F07,Absolute Quantification,ABS,Mo17 7d,Ch1Unknown,7215,10184,17399,0.414679005
+B03,Absolute Quantification,ABS,OH43 24,Ch1Unknown,182,10130,10312,0.017649341
+C03,Absolute Quantification,ABS,OH43 24,Ch1Unknown,386,10749,11135,0.034665469
+D03,Absolute Quantification,ABS,OH43 24,Ch1Unknown,182,10621,10803,0.016847172
+F05,Absolute Quantification,ABS,Oh43 72,Ch1Unknown,57,17055,17112,0.003330996
+G05,Absolute Quantification,ABS,Oh43 72,Ch1Unknown,546,16654,17200,0.031744186
+H05,Absolute Quantification,ABS,Oh43 72,Ch1Unknown,143,16207,16350,0.008746177
+B09,Absolute Quantification,ABS,Oh43 7d,Ch1Unknown,870,15281,16151,0.053866634
+C09,Absolute Quantification,ABS,Oh43 7d,Ch1Unknown,48,18201,18249,0.002630281
+D09,Absolute Quantification,ABS,Oh43 7d,Ch1Unknown,53,18609,18662,0.002839996
